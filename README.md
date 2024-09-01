@@ -1,2 +1,2 @@
-# myRepoForNovOnline
+# Sample web app
 
